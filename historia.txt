@@ -1,2 +1,3 @@
 Hola mi nombre es Helmut Saavedra 
-Helmut Saavedra tiene 24 y esta aprendiendo Git
+Helmut Saavedra tiene 24 ,nacio en Nicaragua 
+y esta aprendiendo Git
